@@ -1,0 +1,21 @@
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\obj\Debug\API REST Spotify.vbprojAssemblyReference.cache
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\obj\Debug\API_REST_Spotify.Form1.resources
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\obj\Debug\API_REST_Spotify.Resources.resources
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\obj\Debug\API REST Spotify.vbproj.GenerateResource.cache
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\obj\Debug\API REST Spotify.vbproj.CoreCompileInputs.cache
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\API REST Spotify.exe.config
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\API REST Spotify.exe
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\API REST Spotify.pdb
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\API REST Spotify.xml
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\Newtonsoft.Json.dll
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\System.Net.Http.Formatting.dll
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\Newtonsoft.Json.pdb
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\Newtonsoft.Json.xml
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\bin\Debug\System.Net.Http.Formatting.xml
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\obj\Debug\API REST Spotify.vbproj.CopyComplete
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\obj\Debug\API REST Spotify.exe
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\obj\Debug\API REST Spotify.xml
+D:\8 semestre\SP2\API REST Spotify\API REST Spotify\obj\Debug\API REST Spotify.pdb
