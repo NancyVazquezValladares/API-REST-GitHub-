@@ -1,0 +1,18 @@
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\bin\Debug\API REST GitHub.exe.config
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\bin\Debug\API REST GitHub.exe
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\bin\Debug\API REST GitHub.pdb
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\bin\Debug\Newtonsoft.Json.dll
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\bin\Debug\System.Net.Http.Formatting.dll
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\bin\Debug\Newtonsoft.Json.xml
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\bin\Debug\System.Net.Http.Formatting.xml
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\obj\Debug\API REST GitHub.csprojAssemblyReference.cache
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\obj\Debug\API_REST_GitHub.Form1.resources
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\obj\Debug\API_REST_GitHub.Properties.Resources.resources
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\obj\Debug\API REST GitHub.csproj.GenerateResource.cache
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\obj\Debug\API REST GitHub.csproj.CoreCompileInputs.cache
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\obj\Debug\API REST GitHub.csproj.CopyComplete
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\obj\Debug\API REST GitHub.exe
+D:\8 semestre\SP2\API REST GitHub\API REST GitHub\obj\Debug\API REST GitHub.pdb
